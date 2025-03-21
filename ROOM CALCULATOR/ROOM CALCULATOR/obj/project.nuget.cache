@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxnYq44F7M8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael Storm\\source\\repos\\ROOM CALCULATOR\\ROOM CALCULATOR\\ROOM CALCULATOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

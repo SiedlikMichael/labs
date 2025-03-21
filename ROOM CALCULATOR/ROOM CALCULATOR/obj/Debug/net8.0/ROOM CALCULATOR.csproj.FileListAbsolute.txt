@@ -1,0 +1,14 @@
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\bin\Debug\net8.0\ROOM CALCULATOR.exe
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\bin\Debug\net8.0\ROOM CALCULATOR.deps.json
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\bin\Debug\net8.0\ROOM CALCULATOR.runtimeconfig.json
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\bin\Debug\net8.0\ROOM CALCULATOR.dll
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\bin\Debug\net8.0\ROOM CALCULATOR.pdb
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.AssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.dll
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\refint\ROOM CALCULATOR.dll
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.pdb
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ROOM CALCULATOR.genruntimeconfig.cache
+C:\Users\Michael Storm\source\repos\ROOM CALCULATOR\ROOM CALCULATOR\obj\Debug\net8.0\ref\ROOM CALCULATOR.dll
